@@ -1,0 +1,26 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Testing and type checking
+.pytest_cache/
+.mypy_cache/
+
+# Generated output
+output/*.json
+!output/.gitkeep
+
+# Operating system files
+.DS_Store
+Thumbs.db

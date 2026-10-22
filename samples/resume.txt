@@ -1,0 +1,35 @@
+ARJUN MEHTA
+Bengaluru, India  |  +91 98450 11223  |  arjun.mehta@pm.me  |  linkedin.com/in/arjunmehta-ml  |  github.com/arjunm
+
+PROFILE
+ML engineer who ships retrieval and extraction systems, not just notebooks. 5+ years turning messy enterprise documents into APIs that product teams can trust. Comfortable owning the last mile: schemas, evals, latency, and fallbacks.
+
+SKILLS
+Python, FastAPI, Pydantic, LangChain-style prompt pipelines, Google Gemini / Vertex, OpenAI, PostgreSQL, Redis, Docker, pytest, spaCy, pandas. Familiar with Airflow and GCP Cloud Run.
+
+EXPERIENCE
+
+Senior Machine Learning Engineer — HelioDocs, Bengaluru
+Mar 2023 – Present
+• Built a Gemini-backed invoice parser that cut AP data-entry time by 62% across 14,000 monthly PDFs.
+• Designed JSON-schema contracts and Pydantic validators so downstream billing never ingested malformed line items.
+• Added few-shot routing (invoice vs. PO vs. receipt) with 97.4% precision on a 2k golden set.
+• Reduced median extract latency from 4.8s to 1.9s by batching and response-mime JSON mode.
+
+Machine Learning Engineer — Northwind Analytics, Hyderabad
+Jul 2020 – Feb 2023
+• Productionized resume-to-profile extraction for a recruiting SaaS (skills, tenure, education).
+• Wrote parameterized prompt templates so non-engineers could change fields without touching Python.
+• Introduced retry-on-validation-failure; invalid JSON dropped from 11% to under 1%.
+
+Junior Data Scientist — PixelForge Studios (contract)
+Jan 2019 – Jun 2020
+• Classified support tickets and drafted reply templates with an internal LLM prototype.
+
+EDUCATION
+B.Tech, Computer Science — NIT Trichy, 2018
+Electives: NLP, distributed systems. GPA 8.4/10.
+
+CERTIFICATIONS
+Google Cloud Professional Machine Learning Engineer (2024)
+DeepLearning.AI Prompt Engineering (2023)
